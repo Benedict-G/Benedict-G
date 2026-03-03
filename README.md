@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Anthony 👋
 
-<!--
-**Benedict-G/Benedict-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Support professional transitioning into SaaS-focused remote roles.
 
-Here are some ideas to get you started:
+## 🔧 What I Do
+- Troubleshoot software and infrastructure systems
+- Build secure, local-first AI architecture (Zemi OS)
+- Document structured debugging workflows
+- Work across Linux, macOS, Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Google IT Support Professional Certificate (In Progress)
+- Preparing for Remote Technical Support (SaaS) roles
+
+## 🧠 Core Strengths
+- Root cause analysis
+- Log analysis & structured troubleshooting
+- Networking fundamentals (TCP/IP, VPN, DNS)
+- Clear technical communication
+
+---
+
+Building toward AI infrastructure, software systems, and security.
