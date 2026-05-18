@@ -1,23 +1,25 @@
 # Hi, I'm Anthony 👋
 
-Technical Support professional transitioning into SaaS-focused remote roles.
+Navy veteran and systems professional building production-grade AI infrastructure and security architecture from scratch.
 
-## 🔧 What I Do
-- Troubleshoot software and infrastructure systems
-- Build secure, local-first AI architecture (Zemi OS)
-- Document structured debugging workflows
-- Work across Linux, macOS, Windows
+# 🔧 What I Build
 
-## 🚀 Current Focus
-- Google IT Support Professional Certificate (In Progress)
-- Preparing for Remote Technical Support (SaaS) roles
+Fully local AI agent platforms with autonomous task execution, skill generation, and multi-node architecture
+Security systems: STRIDE-audited, AES-256 encrypted, with automated threat detection and incident response
+Infrastructure across Linux, macOS, Docker, Python, and private VPN networking
+Modular skill libraries covering DevOps, security operations, and business automation
 
-## 🧠 Core Strengths
-- Root cause analysis
-- Log analysis & structured troubleshooting
-- Networking fundamentals (TCP/IP, VPN, DNS)
-- Clear technical communication
+# 🚀 Current Projects
 
----
+Daedalus — A locally-hosted AI agent platform built on a Mac Mini M4. Zero cloud inference. Full security suite including passive/active recon, blue team monitoring, vulnerability scanning, and automated lockdown. Deployed across a three-node architecture.
+Guadalupe Consulting — Boutique AI agent deployment service for small businesses and content creators.
 
-Building toward AI infrastructure, software systems, and security.
+# 🧠 Core Strengths
+
+Systems architecture and infrastructure reliability
+Security operations and threat modeling
+Python, asyncio, FastAPI, SQLite, Docker
+Autonomous systems design and agentic AI pipelines
+
+# 📂 Featured Repository
+Daedalus-Docs — Sanitized architecture reference, PRD, trust tier system, and skill library for the Daedalus platform.
